@@ -23,5 +23,6 @@ public class ExampleInstrumentedTest {
 
         assertEquals("br.com.mobiplus.android_jenkins_test", appContext.getPackageName());
         // test
+        //as
     }
 }
