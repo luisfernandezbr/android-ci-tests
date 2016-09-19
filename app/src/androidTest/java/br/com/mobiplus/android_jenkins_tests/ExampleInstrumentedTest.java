@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("br.com.mobiplus.android_jenkins_tests", appContext.getPackageName());
+        assertEquals("br.com.mobiplus.android_jenkins_test", appContext.getPackageName());
     }
 }
